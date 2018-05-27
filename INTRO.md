@@ -3,19 +3,11 @@ Free Space is located Reno, NV, USA. Our roots started in LAN / WAN networking o
 We believe the follow items are the reasons that you will want to vote for Free Space.
 
 • Perfect combination of performance and price
-
 • Block-chain enthusiasts
-
 • Committed to Tron project
-
 • Small business minded entrepreneurial management
-
 • Located 20 miles from the first Tier 5 data center in the world
-
 • Life-long enterprise IT experience
-
 • Adequately self-funded
-
 • Continued testing, optimization and reinvesting
-
 • Full financial transparency
