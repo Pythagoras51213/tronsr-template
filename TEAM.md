@@ -1,14 +1,12 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Dean Zaremba
+Role: Lead Engineer
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Erin O'Reilly
+Role: Network Operations
 
-## Team Member 2
 
-Name: [name]
-Role: [role]
+
