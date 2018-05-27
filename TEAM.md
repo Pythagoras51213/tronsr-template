@@ -10,5 +10,3 @@ Name: Erin O'Reilly
 Role: Network Operations
 
 
-![alt text](https://www.dropbox.com/s/81ruije74jlbyjy/image1.jpeg?dl=0)
-
