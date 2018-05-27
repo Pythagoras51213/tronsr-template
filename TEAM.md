@@ -8,7 +8,7 @@ Role: Lead Engineer
 
 ## Team Member 1
 
-![](image1.jpeg)
+![](https://www.dropbox.com/s/81ruije74jlbyjy/image1.jpeg?dl=0)
 
 Name: Erin O'Reilly
 
