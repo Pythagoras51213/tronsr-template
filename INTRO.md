@@ -18,4 +18,3 @@ Free Space is located Reno, NV, USA. Our roots started in LAN / WAN networking o
 
 • Full financial transparency
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/5128_1174414684829_648680_n.jpg)
