@@ -9,7 +9,7 @@ During test net operations, on our production servers, our bandwidth consumption
 Phase II -  Expansion and Redundancy  
 See our diagram here: https://www.dropbox.com/s/bac8g3przjdv6k6/Tron%20Phase%20II.png?dl=0
 
-Once elected as SR and funded, we will expand our operations quickly.  We will grow to 3 locations with witness servers to ensure we stay operational regardless of server, ISP, or physical location failures.  We will also expand the number of our servers in preparation for a growing user-base and transaction volume.
+Once elected as SR and funded, we will expand our operations quickly.  We will grow to 3 locations with witness servers to ensure we stay operational regardless of server, ISP, or physical location failures.  We will also expand the number of our servers to 12 in preparation for a growing user-base and transaction volume.
 
 Phase III -  Increase Server Requirements
 
