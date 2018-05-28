@@ -13,7 +13,7 @@ Once elected as SR and funded, we will expand our operations quickly.  We will g
 
 Phase III -  Increase Server Requirements
 
-Once we have reach full redundancy in operations, we will continue to invest in bigger and better servers as demand grows.  This will include number of cores, RAM, hard drive space, ISP bandwidth, etc.
+Once we have reached full redundancy in operations, we will continue to invest in bigger and better servers as demand grows.  This will include number of cores, RAM, hard drive space, ISP bandwidth, etc.
 
 Switch data center hosting facility.
 
