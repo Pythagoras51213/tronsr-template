@@ -7,14 +7,15 @@ Goal is cost effective reliable block production.  We have a 4-server design.  O
 During test net operations, on our production servers, our bandwidth consumption was under 10%, our processors ran an average of 4% utilization, while 22% of our RAM was consumed. This gives us room to grow without the need for network redesign, but at a reasonable starting price.
 
 Phase II -  Expansion and Redundancy  
-
 See our diagram here: https://www.dropbox.com/s/bac8g3przjdv6k6/Tron%20Phase%20II.png?dl=0
 
 Once elected as SR and funded, we will expand our operations quickly.  We will grow to 3 locations with witness servers to ensure we stay operational regardless of server, ISP, or physical location failures.  We will also expand the number of our servers in preparation for a growing user-base and transaction volume.
 
 Phase III -  Increase Server Requirements
+
 Once we have reach full redundancy in operations, we will continue to invest in bigger and better servers as demand grows.  This will include number of cores, RAM, hard drive space, ISP bandwidth, etc.
 
 Switch data center hosting facility.
+
 Our productions servers will be located at switch data center in Reno, NV, USA. It is the first tier 5 facility in the world. It is the most redundant and secure hosting facility ever built. It has sub 20 ms ping times to the western half of the USA. It is a green facility, has low electrical costs at under 5 cents per kWh, a 35% guaranteed savings on internet bandwidth, some of the lowest taxes in the world, and sub 20 ms ping times to half of the USA.
 You can see video of the facility here: https://www.switch.com/citadel/
