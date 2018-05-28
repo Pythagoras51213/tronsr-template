@@ -3,7 +3,9 @@ chain professionals. We are investing in Tron for all the right reasons and take
 
 • Perfect combination of performance and price
 
-• Block-chain enthusiasts
+• Continued testing, optimization and reinvesting
+
+• Full financial transparency
 
 • Committed to Tron project
 
@@ -15,7 +17,5 @@ chain professionals. We are investing in Tron for all the right reasons and take
 
 • Adequately self-funded
 
-• Continued testing, optimization and reinvesting
-
-• Full financial transparency
+• Block-chain enthusiasts
 
