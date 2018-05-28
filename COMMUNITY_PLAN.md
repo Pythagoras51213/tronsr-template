@@ -10,7 +10,7 @@ We believe, that until we overcome these challenges, that our focus should be to
 As a result, our community effort for the first two years, will be solely to get us prepared for these challenges.  We need to build a Tron army of the best and brightest technical team.  We intend to execute on the following:
 
 1. Create a best practices guide. To cover network architecture, sys admin, node configuration, security, DDos protection, network monitoring, log analysis, emergency procedures, wallet operation, Dapp basics.
-2. Create forums / support channels for aspiring Tron engineers.
+2. Create forums / support channels / instructional videos for aspiring Tron engineers.
 3. Create internships and scholarships for aspiring engineers that want to learn TRX technology.
 4. Build and operate a public Tron test net. This will allow aspiring engineers the opportunity to configure servers, build blocks, monitor logs, and eventually become Super Representatives.
 
