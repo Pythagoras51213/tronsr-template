@@ -1,4 +1,4 @@
-We have participated in Tron test net for over 60 days.  In the test net, we have been voted to Super Representative.  As an SR on the test net, we have a 100% block production rate.
+We have participated in Tron test net for over 60 days.  In the test net, we have been voted to Super Representative and successfully produced blocks.  
 
 
 Free Space is located Reno, NV, USA. Our roots started in LAN / WAN networking over 20 years ago, but we are quickly becoming block
