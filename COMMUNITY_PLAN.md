@@ -8,7 +8,7 @@ We believe that Super Representatives have a primary responsibility and it must 
 
 We believe, that until we overcome these challenges, that our focus should be to invest in these solutions.  And only after we accomplish all these goals, should rewards be paid back to coin holders. If SR don't properly use their funds to solve these challenges and instead pay large dividends for votes, they are risking the entire Tron project, as are the voters who vote for such models.  We need to think long-term if we are going to have the success that we all crave.
 
-As a result, our community effort for the first two years, will be solely to get us prepared for these challenges.  We need to build a Tron army of the best and brightest technical team.  We intend to execute on the following:
+As a result, we will put our first 2 million in block rewards back into the network and support of the network. And then the first million each year after that.  We need to build a Tron army of the best and brightest technical team.  Once we do that, we will gladly entertain paying additonal reveunes back to voters, or simply burnint TRS.  We intend to execute on the following:
 
 1. Create a best practices guide. To cover network architecture, sys admin, node configuration, security, DDos protection, network monitoring, log analysis, emergency procedures, wallet operation, Dapp basics.
 
