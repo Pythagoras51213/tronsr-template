@@ -10,11 +10,11 @@ We believe, that until we overcome these challenges, that our focus should be to
 
 As a result, we will put our first 2 million in block rewards back into the network. And then, do the same with the first million each year after that.  We need to build a Tron army of the best and brightest technical team.  Once we do that, we will gladly paying additonal reveunes back to voters, or simply burn TRX.  We intend to execute on the following:
 
-1. Create a best practices guide. To cover network architecture, sys admin, node configuration, security, DDos protection, network monitoring, log analysis, emergency procedures, wallet operation, Dapp basics.
+1. We want to lead the effort to bring Tron to every country on the planet.  We will work with aspiring engineers from all over the world and help fund the hardware and bandwidth needed to so they can install and maintain a full-node on the Tron network.
 
-2.  Build and operate a public Tron test net. This will allow aspiring engineers the opportunity to configure servers, build blocks, monitor logs, and eventually become Super Representatives.
+2. Create a best practices guide. To cover network architecture, sys admin, node configuration, security, DDos protection, network monitoring, log analysis, emergency procedures, wallet operation, Dapp basics.
 
-3.  We want to lead the effort to bring Tron to every country on the planet.  We will work with aspiring engineers from all over the world and help fund the hardware and bandwidth needed to so they can install and maintain a full-node on the Tron network.
+3.  Build and operate a public Tron test net. This will allow aspiring engineers the opportunity to configure servers, build blocks, monitor logs, and eventually become Super Representatives.
 
 4. Create internships and scholarships for aspiring engineers that want to learn TRX technology.
 
