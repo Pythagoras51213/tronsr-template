@@ -3,7 +3,9 @@
 Name: Dean Zaremba
 
 ![] (https://www.dropbox.com/s/tgxvvqape78ovep/Dean%20Profile.jpg?dl=0)
+
 ![] (http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html?sort=3&o=0)
+![] http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html?sort=3&o=0
 
 ![](https://tron.34rth.com/wp-content/uploads/2018/05/team-CT-2-270x164.jpg)
 
