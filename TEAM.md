@@ -2,6 +2,8 @@
 
 Name: Dean Zaremba
 
+![] (https://www.dropbox.com/preview/Tron/Dean%20Profile.jpg)
+
 Role: Lead Engineer
 
 Dean Zaremba is a senior network engineer that has been designing enterprise LAN, WAN and Wi-Fi networks for over 20 years.
