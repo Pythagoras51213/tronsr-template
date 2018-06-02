@@ -5,7 +5,7 @@ Phase I -  Initial deployment.
 Goal is cost effective reliable block production.  We have a 4-server design.  Our public facing server will be a Nginx reverse proxy / load balancer hosted with Google Cloud.  This will hide our full node and protect it from attacks. We will have a full node for user API access, also hosted by Google cloud.  We will have two bare-metal block producing witness servers, one primary and one backup. They will have dual 1 Gbps ISPs, be protected by a Sonicwall firewall, and use wireguard for encrypted secure communications.
 During test net operations, on our production servers, our bandwidth consumption was under 10%, our processors ran an average of 4% utilization, while 22% of our RAM was consumed. This gives us room to grow without the need for network redesign, but at a reasonable starting price.
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Tron%20Phase%20I%2050.png?raw=true)
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Tron%20Phase%20I.png?raw=true)
 
 Phase II -  Expansion and Redundancy  
 
