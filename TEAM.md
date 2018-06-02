@@ -2,9 +2,9 @@
 
 Name: Dean Zaremba
 
-![dean](http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html?sort=3&o=0)
+![dean]([URL=http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html][IMG]http://i998.photobucket.com/albums/af105/pythagoras345/5128_1174414684829_648680_n.jpg[/IMG][/URL])
 
-![dean](https://www.dropbox.com/s/tgxvvqape78ovep/Dean%20Profile.jpg)
+![dean]()
 
 Role: Lead Engineer
 
