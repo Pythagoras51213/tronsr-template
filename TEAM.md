@@ -4,9 +4,8 @@ Name: Dean Zaremba
 
 ![] (https://www.dropbox.com/preview/Tron/Dean%20Profile.jpg)
 
-Charly |
------------- | 
-![Charly](https://tron.34rth.com/wp-content/uploads/2018/05/team-CT-2-270x164.jpg) |
+
+![Charly](https://tron.34rth.com/wp-content/uploads/2018/05/team-CT-2-270x164.jpg)
 
 Role: Lead Engineer
 
