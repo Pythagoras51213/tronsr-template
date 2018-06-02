@@ -7,8 +7,6 @@ Dean Zaremba is a senior network engineer that has been designing enterprise LAN
 
 Erin  O'Reilly |
 ------------ | 
-Role: Network Operations
-
 Erin O’Reilly is a network engineer that specialized in network security.  
 
 
