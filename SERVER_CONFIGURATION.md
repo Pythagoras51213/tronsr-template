@@ -1,7 +1,8 @@
 We believe in right-sized infrastructure design.   As a community, if we over build, we will waste money.  And if we under build, we will won’t be able to handle growth. Thus, we have a 3-phase approach to our infrastructure.
 
 Phase I -  Initial deployment.  
-See our diagram here: https://www.dropbox.com/s/6q624wttqrodibf/Tron%20Phase%20I.png?dl=0
+
+![](
 
 Goal is cost effective reliable block production.  We have a 4-server design.  Our public facing server will be a Nginx reverse proxy / load balancer hosted with Google Cloud.  This will hide our full node and protect it from attacks. We will have a full node for user API access, also hosted by Google cloud.  We will have two bare-metal block producing witness servers, one primary and one backup. They will have dual 1 Gbps ISPs, be protected by a Sonicwall firewall, and use wireguard for encrypted secure communications.
 During test net operations, on our production servers, our bandwidth consumption was under 10%, our processors ran an average of 4% utilization, while 22% of our RAM was consumed. This gives us room to grow without the need for network redesign, but at a reasonable starting price.
