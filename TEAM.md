@@ -1,8 +1,12 @@
-## Founder
+## Our Team
 
 Name: Dean Zaremba
 
 ![] (https://www.dropbox.com/preview/Tron/Dean%20Profile.jpg)
+
+Charly |
+------------ | 
+![Charly](https://tron.34rth.com/wp-content/uploads/2018/05/team-CT-2-270x164.jpg) |
 
 Role: Lead Engineer
 
@@ -10,7 +14,7 @@ Dean Zaremba is a senior network engineer that has been designing enterprise LAN
 
 You can reach Dean via telegram: https://t.me/pythagoras345
 
-## Team Member 1
+
 
 Name: Erin O'Reilly
 
