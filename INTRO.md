@@ -1,6 +1,6 @@
 We have participated in Tron test net for over 60 days.  In the test net, we have been voted to Super Representative and successfully produced blocks.  
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Blocks.png)
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Blocks.jpg)
 
 Free Space is located Reno, NV, USA. Our roots started in LAN / WAN networking over 20 years ago, but we are quickly becoming block
 chain professionals. We are investing in Tron for all the right reasons and take a long-term viewpoint. We believe in the overall mission, a decentralized network, and community spirit. We have been successful in all our ventures, so we are very confident that we can bring value to the Tron community. We have a combination of technical, marketing and communication skills, which makes us perfect SR candidates. We believe the follow items are the reasons that you will want to vote for Free Space.
