@@ -4,6 +4,8 @@ Name: Dean Zaremba
 
 ![dean](http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html?sort=3&o=0)
 
+![dean](http://s998.photobucket.com/user/pythagoras345/media/5128_1174414684829_648680_n.jpg.html?sort=3&o=0)
+
 Role: Lead Engineer
 
 Dean Zaremba is a senior network engineer that has been designing enterprise LAN, WAN and Wi-Fi networks for over 20 years.
