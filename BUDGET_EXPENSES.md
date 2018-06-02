@@ -14,4 +14,6 @@ Now, consider a similar model, but if we were voted into the top 27 every day.  
 Data Center – 8%, Servers – 12%, HR – 16%, Business Operations – 3%, Community give back – 57%, Profit - 4%
 
 
-Here is detailed budget at the lower funding level.  https://www.dropbox.com/s/84wxheoae8g7vi0/SR%20Budget.png?dl=0
+Here is detailed budget at the lower funding level.  
+
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/SR%20Budget.png)
