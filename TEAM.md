@@ -9,7 +9,7 @@ Dean Zaremba is a senior network engineer that has been designing enterprise LAN
 
 Erin  O'Reilly 
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Dean%20Profile.jpg?raw=true) 
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Erin%20Profile.jpeg?raw=true) 
 
 Erin O’Reilly is a network engineer that specialized in network security.  
 
