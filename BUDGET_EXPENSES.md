@@ -16,4 +16,5 @@ Data Center – 8%, Servers – 12%, HR – 16%, Business Operations – 3%, Com
 
 Here is detailed budget at the lower funding level.  
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/SR%20Budget.png)
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/SR%20Budget.jpg?raw=true)
+
