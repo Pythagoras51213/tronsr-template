@@ -11,7 +11,7 @@ Phase II -  Expansion and Redundancy
 
 Once elected as SR and funded, we will expand our operations quickly.  We will grow to 3 locations with witness servers to ensure we stay operational regardless of server, ISP, or physical location failures.  We will also expand the number of our servers to 12 in preparation for a growing user-base and transaction volume.
 
-![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Tron%20Phase%20II%20-50.png)
+![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Tron%20Phase%20II%20-50.jpg)
 
 Phase III -  Increase Server Requirements
 
