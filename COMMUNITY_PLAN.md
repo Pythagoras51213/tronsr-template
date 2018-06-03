@@ -10,7 +10,7 @@ We believe, that until we overcome these challenges, that our focus should be to
 
 As a result, we will put our first $2,000,000 of our top 27 SR block rewards back into the network and network operations. And then, do the same with the first million each year after that.  We need to build a Tron army of the best and brightest technical team.  Once we do that, we will gladly paying additonal reveunes back to voters, or simply burn TRX.  We intend to execute on the following:
 
-1. We want to lead the effort to bring Tron to every country on the planet.  We will work with aspiring engineers from all over the world and help fund the hardware and bandwidth needed to so they can install and maintain a full-node on the Tron network.
+1. We want to lead the effort to bring Tron to every country on the planet.  We will work with aspiring engineers from all over the world and help fund the hardware and bandwidth needed so they can install and maintain a full-node on the Tron network.
 
 2. Create a best practices guide. To cover network architecture, sys admin, node configuration, security, DDos protection, network monitoring, log analysis, emergency procedures, wallet operation, Dapp basics.
 
