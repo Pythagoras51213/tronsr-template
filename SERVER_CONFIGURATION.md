@@ -18,5 +18,5 @@ Phase III -  Increase Server Requirements
 Once we have reached full redundancy in operations, we will continue to invest in bigger and better servers as demand grows.  This will include number of cores, RAM, hard drive space, ISP bandwidth, etc.
 
 
-Additionally, as one of our stragic advantages, our productions servers will be located at switch data center in Reno, NV, USA. It is the first tier 5 facility in the world. It is the most redundant and secure hosting facility ever built. It has sub 20 ms ping times to the western half of the USA. It is a green facility, has low electrical costs at under 5 cents per kWh, a 35% guaranteed savings on internet bandwidth, some of the lowest taxes in the world, and sub 20 ms ping times to half of the USA.
+Additionally, as one of our stragic advantages, our phase II and II productions servers will be located at switch data center in Reno, NV, USA. It is the first tier 5 facility in the world. It is the most redundant and secure hosting facility ever built. It has sub 20 ms ping times to the western half of the USA. It is a green facility, has low electrical costs at under 5 cents per kWh, a 35% guaranteed savings on internet bandwidth, some of the lowest taxes in the world, and sub 20 ms ping times to half of the USA.
 You can see video of the facility here: https://www.switch.com/citadel/
