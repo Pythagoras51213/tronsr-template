@@ -21,7 +21,3 @@ We have been a top block producing Super Representative since the day of mainet 
 
 • Lan / WAN networking for over 20 years
 
-• Adequately self-funded
-
-• Block-chain enthusiasts
-
