@@ -7,7 +7,7 @@ Such a disruptive technology and end-goal is going to face a lot of resistance f
 
 We believe, that until we overcome these challenges, that our focus should be to invest in these solutions.  And only after we accomplish all these goals, should cash rewards be paid back to coin holders. If SR don't properly use their funds to solve these challenges and instead pay large dividends for votes, they are risking the entire Tron project, as are the voters who vote for such models.  We need to think long-term if we are going to have the success that we all crave.
 
-As a result, we will put our first $2,000,000 of our top 27 SR block rewards back into the network and network operations. And then, do the same with the first million each year after that.  We need to build a Tron army of the best and brightest technical team.  Once we achieve these goals, we will be excited to pay TRX back to our voters, like dividends on a maturing stock. To reach our goasl, we will execute on the following:
+As a result, we will put our first $1,000,000 of our top 27 SR block rewards back into the network and network operations. And then, do the same with the first million each year after that.  We need to build a Tron army of the best and brightest technical team.  Once we achieve these goals, we will be excited to pay TRX back to our voters, like dividends on a maturing stock. To reach our goasl, we will execute on the following:
 
 1. We want to lead the effort to bring Tron to every country on the planet.  We will work with aspiring engineers from all over the world and help fund the hardware and bandwidth needed so they can install and maintain a full-node on the Tron network.
 
