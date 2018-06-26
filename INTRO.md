@@ -19,5 +19,5 @@ We have been a top block producing Super Representative since the day of mainet 
 
 • Located 20 miles from the first Tier 5 data center in the world
 
-• Lan / WAN networking for over 20 years
+• LAN / WAN networking for over 20 years
 
