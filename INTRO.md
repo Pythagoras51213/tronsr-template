@@ -1,4 +1,4 @@
-We have been a top block producing Super Representative since the day of mainet Launch on May 31st. We have produced 100k+ blocks in total on mainet and several test nets.
+We have been a top block producing Super Representative since the day of mainet Launch on May 31st. We have produced 100,000+ blocks in total on mainet and several test nets.
 
 ![](https://github.com/Pythagoras51213/tronsr-template/blob/master/Blocks.png?raw=true)
 
